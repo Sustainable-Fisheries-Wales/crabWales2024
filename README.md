@@ -4,7 +4,7 @@ This repository contains code used for the 2024 exploratory stock assessment wor
 ##### Time series of the spawning stock biomass (SSB), fishing mortality (F), relative SSB and F with Bmsy and Fsmy, recruitment, and landings of the Welsh crab stock during 1983–2024.
 <img src="https://github.com/Sustainable-Fisheries-Wales/crabWales2024/blob/main/plots/crab2024.png?raw=true" width="500"> 
 
-##### Kobe plot of SSB/Bmsy vs. F/Fsmy of the Welsh lobster stock during 1983–2024.
+##### Kobe plot of SSB/Bmsy vs. F/Fsmy of the Welsh crab stock during 1983–2024.
 <img src="https://github.com/Sustainable-Fisheries-Wales/crabWales2024/blob/main/plots/crab2024_kobeplot.png?raw=true" width="500"> 
 
 #### File list
